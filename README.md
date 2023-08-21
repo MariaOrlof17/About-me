@@ -1,11 +1,10 @@
 # About-me
 When I started testing
 
-MOIM CELEM ZAWODOWYM JEST PODJĘCIE PRACY W BRANŻY IT NA STANOWISKU  TESTERA OPROGRAMOWANIA.
-OBECNIE JESTEM W TRAKCIE PRZYGOTOWYWANIA  SIĘ DO ZDANIA CERTYFIKATU ISTQB. 
-JESTEM OSOBĄ AMBITNĄ I DOKŁADNĄ KTÓREJ ROZWÓJ I WDRAŻANIE NOWYCH  USPRAWNIEŃ SPRAWIA NAJWIĘKSZĄ PRZYJEMNOŚĆ. 
-JAKO TECHNOLOG ŻYWNOŚCI SKUPIAŁAM SIĘ GŁÓWNIE NA POSZUKIWANIU UCHYBIEŃ I BŁĘDÓW W TRAKCIE PROCESÓW PRODUKCYJNYCH A CO ZA TYM IDZIE  POPRAWIE JAKOŚCI I ZAPOBIEGANIU AWARIOM, CO POZWOLIŁO MI ZDOBYĆ  DOŚWIADCZENIE, KTÓRE ZAMIERZAM WYKORZYSTAĆ JAKO TESTER  OPROGRAMOWANIA. 
-UKOŃCZYŁAM KURS NA TESTERA MANUALNEGO Z FIRMĄ GoIT NA KTÓRYM NAUCZYŁAM SIĘ WIELE PRAKTYCZNYCH UMIEJĘTNOŚCI, KTÓRE CHCIAŁABYM WYKORZYSTAĆ W PRACY.
+My professional ambition is to start my career as a software QA engineer. Currently, I’m preparing to complete the ISTQB certificate. 
+I’m an ambitious, detail-oriented person who enjoys developing and implementing process improvements. 
+My past experience as a food technologist gave me solid foundations that I plan to use in software quality assurance. I focused on looking for defects in production processes, quality improvements, and consequently, preventing malfunctions. 
+I have completed a manual tester course with GoIT company, where I learned a lot of practical skills that i would like to use in work.
 
 PROJEKT
 
