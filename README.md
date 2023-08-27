@@ -26,7 +26,16 @@ I have completed a manual tester course with GoIT company, where I learned a lot
 * White-box design techniques
 
 **To confirm my tech skills, I can show you my first project: "Projekt Kapu$ta" where I tested a web application** 
-Please click on link below.
 
-https://drive.google.com/drive/folders/10hBVbfFtMs44ozpZ9Jxi66MFjRieNVxD?usp=sharing  
+* [Web application requirement](https://drive.google.com/drive/u/2/folders/10hBVbfFtMs44ozpZ9Jxi66MFjRieNVxD)
+* [Test Scenario-Registration new user](https://docs.google.com/spreadsheets/d/1lBK2YZ-jjwuk9Ru4Nl4pNd1wSnkc0W5JZ_F24gv4a1k/edit#gid=0)
+* [Test Scenario-Log in user](https://docs.google.com/spreadsheets/d/1wE2XAHIHvD5GYcoLRMQdBRdxQPTKxa7w5iFJ2QY2JNw/edit#gid=0)
+* [Test Scenario-Headline](https://docs.google.com/spreadsheets/d/1OBV52ohUfMtasSn8RAI1Lk_EZjv9nmz5BKIKfCjcOX8/edit#gid=0)
+* [Test Scenario-Main page](https://docs.google.com/spreadsheets/d/1HtWkgJUuWRXNrAmGMxKBXZEOP68UyumqRHLzq3LAbqY/edit#gid=2019073586)
+* [Test Scenario-Design](https://docs.google.com/spreadsheets/d/1jlYUWkRlpfcTR69CBt_KxOij_g8hQ2Y0z6LrRjxDhaI/edit#gid=0)
+* [Bug reports](https://docs.google.com/spreadsheets/d/1yoPpbTYIVDkniEO_0kQeIJ_psyabe2UDAYBHFj8-iRc/edit#gid=0)
+* [Checklist and summary report](https://docs.google.com/spreadsheets/d/1N8uYsIS4UvZ0mnIS0G_w_fFXGIcklInr1KLt4BTBFMk/edit#gid=0)
+
+
+
 
