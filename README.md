@@ -27,7 +27,7 @@ I have completed a manual tester course with GoIT company, where I learned a lot
 
 **To confirm my tech skills, I can show you my first project: "Projekt Kapu$ta" where I tested a web application** 
 
-* [Web application requirement](https://drive.google.com/drive/u/2/folders/10hBVbfFtMs44ozpZ9Jxi66MFjRieNVxD)
+* [Web application requirement](file:///C:/Users/Andrzej/AppData/Local/Temp/Rar$EXa27840.370/Specifykacja.html)
 * [Test Scenario-Registration new user](https://docs.google.com/spreadsheets/d/1lBK2YZ-jjwuk9Ru4Nl4pNd1wSnkc0W5JZ_F24gv4a1k/edit#gid=0)
 * [Test Scenario-Log in user](https://docs.google.com/spreadsheets/d/1wE2XAHIHvD5GYcoLRMQdBRdxQPTKxa7w5iFJ2QY2JNw/edit#gid=0)
 * [Test Scenario-Headline](https://docs.google.com/spreadsheets/d/1OBV52ohUfMtasSn8RAI1Lk_EZjv9nmz5BKIKfCjcOX8/edit#gid=0)
