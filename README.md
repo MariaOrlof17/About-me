@@ -25,4 +25,8 @@ I have completed a manual tester course with GoIT company, where I learned a lot
 * Black-box and experience-based design techniques
 * White-box design techniques
 
-**To confirm my tech skills, I prepared a new repository. Please check my first project: "Projekt Kapu$ta"**
+**To confirm my tech skills, I can show you my first project: "Projekt Kapu$ta" where I tested a web application** 
+Please click on link below.
+
+https://drive.google.com/drive/folders/10hBVbfFtMs44ozpZ9Jxi66MFjRieNVxD?usp=sharing  
+
