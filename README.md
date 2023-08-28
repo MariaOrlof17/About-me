@@ -1,5 +1,5 @@
 # About-me
-When I started testing
+
 
 My professional ambition is to start my career as a software QA engineer. Currently, I’m preparing to complete the ISTQB certificate. 
 I’m an ambitious, detail-oriented person who enjoys developing and implementing process improvements. 
